@@ -1,0 +1,22 @@
+/* styles/Home.module.css */
+h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 8px;
+    background-color: #fff;
+    color: #ff7e5f;
+    border: 2px solid #ff7e5f;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  button:hover {
+    background-color: #ff7e5f;
+    color: #fff;
+  }
+  
